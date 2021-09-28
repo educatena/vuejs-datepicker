@@ -17,6 +17,10 @@
     height max-content
     user-select none
 
+    .calendar-month
+        font-size 0px;
+
+
     header
         display block
         line-height 40px
@@ -26,6 +30,7 @@
             
         .day__month_btn
             text-align center
+            font-size 14px
         
         .monthes-select
             position absolute
@@ -36,6 +41,7 @@
             opacity 0
             width 100%
             cursor pointer
+            font-size 14px
 
 
 
@@ -94,6 +100,7 @@
         text-align center
         vertical-align middle
         border 1px solid transparent
+        font-size 14px
         &:not(.blank):not(.disabled).day
         &:not(.blank):not(.disabled).month
         &:not(.blank):not(.disabled).year
@@ -130,7 +137,7 @@
 
 
         &.day-header
-            font-size 75%
+            font-size 11px
             white-space nowrap
             cursor inherit
             &:hover

@@ -1,5 +1,5 @@
 <template>
-  <div data-component>
+  <div data-component class="calendar-month">
     <header>
       <div class="day__month_btn">
         {{ isYmd ? currYearName : currMonthName }} {{ isYmd ? currMonthName : currYearName }}
