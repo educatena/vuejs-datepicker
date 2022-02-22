@@ -1,6 +1,6 @@
 {
-  "name": "vuejs-datepicker",
-  "version": "1.6.3",
+  "name": "educatena-vuejs-datepicker",
+  "version": "1.6.5",
   "description": "A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations",
   "keywords": [
     "vue",
@@ -15,13 +15,13 @@
     "src",
     "dist"
   ],
-  "author": "Charlie Kassel <ck@charliekassel.com>",
+  "author": "Educatena <tic@educatena.com.br>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/charliekassel/vuejs-datepicker"
+    "url": "https://github.com/educatena/vuejs-datepicker"
   },
   "bugs": {
-    "url": "https://github.com/charliekassel/vuejs-datepicker/issues"
+    "url": "https://github.com/educatena/vuejs-datepicker/issues"
   },
   "private": false,
   "license": "MIT",
